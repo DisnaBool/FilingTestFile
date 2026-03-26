@@ -1,6 +1,6 @@
 ![](https://github.com/DisnaBool/FilingTestFile/blob/main/Pz8.png)
 
-#Практические задания:
+Практические задания:
 -
 https://github.com/DisnaBool/FilingTestFile/blob/main/PZ8_code/PZ8_1.cpp
 -
